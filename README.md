@@ -3,3 +3,4 @@ Add yourself as candidate mentor for potential hackathon (*athon) events | Power
 
 - [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/)
 - [İrem Çetin](https://www.linkedin.com/in/irem%C3%A7etin/)
+- [Ege Dinnen](https://www.linkedin.com/in/ege-dinnen/)
